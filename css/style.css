@@ -1,0 +1,33 @@
+body{
+  font-family: sans-serif;
+  color:#b94545;
+  background-image:url(128-174.jpg);
+  background-repeat:repeat;
+}
+header{
+  margin-top:10vw;
+}
+.seperator{
+  height: 7vw;
+}
+#lbl{
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+h1{
+  color: black;
+  font-weight: bold;
+}
+#main{
+  margin-left: 8vw;
+  margin-right: 8vw;
+  margin-top: 5vw;
+}
+.bottom{
+  bottom: 0vw;
+  right: 0vw;
+  position: fixed;
+}
+#name{
+  color: black;
+}
